@@ -27,6 +27,6 @@ Desarrollo de un algoritmo paramétrico para construir una torre. El robot solic
 
 ## 📂 Estructura del Proyecto
 
-* [**Práctica 1: Sistemas de Referencia**](ruta/a/tu/carpeta1)
-* [**Práctica 2: Selección de Destinos**](ruta/a/tu/carpeta2)
-* [**Práctica 3: Torre tipo Jenga**](ruta/a/tu/carpeta3)
+* [**Práctica 1: Sistemas de Referencia**](./Colocar_Mesa.rspag)
+* [**Práctica 2: Selección de Destinos**](./Seleccion_Destinos.zip)
+* [**Práctica 3: Torre tipo Jenga**](./Torres.rspag)
